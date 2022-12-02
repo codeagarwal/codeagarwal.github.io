@@ -4,6 +4,8 @@
 body {
   background-color: #000000;
   color: #ffffff;
+  overflow-x: hidden;
+  width: 100%;
 }
 
 h1,
@@ -138,7 +140,7 @@ a:hover {
 .title-s {
   font-weight: 700;
   color: #ffffff;
-  font-size: 1.4rem;
+  font-size: 1rem;
 }
 
 /*--/ Title A /--*/
@@ -694,7 +696,7 @@ a:hover {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #6c00ff;
+  color: #0078ff;
 }
 
 .navbar-mobile .getstarted,
